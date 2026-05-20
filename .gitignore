@@ -1,0 +1,14 @@
+# Local/private environment
+.env
+.env.local
+.env.*.local
+
+# Generated output
+research-output/
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
